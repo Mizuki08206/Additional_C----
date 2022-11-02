@@ -10,7 +10,8 @@ namespace Additional_C____
     {
         public static void Main(string[] args)
         {
-            Deligate.a();
+            //Deligate.a();
+            SeikiHyougen.a();
         }
     }
 }
