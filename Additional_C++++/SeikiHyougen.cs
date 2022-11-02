@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Additional_C____
 {
-    internal class Program
+    public class SeikiHyougen
     {
-        public static void Main(string[] args)
-        {
-
-        }
     }
 }

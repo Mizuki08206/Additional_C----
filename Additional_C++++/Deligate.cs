@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Additional_C____
 {
-    internal class Program
+    internal class Deligate
     {
-        public static void Main(string[] args)
+        public static void a()
         {
-
+            Console.WriteLine("==========");
         }
     }
 }
