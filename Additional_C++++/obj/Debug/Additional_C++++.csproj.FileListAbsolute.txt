@@ -6,3 +6,11 @@ C:\Users\mizuk\source\repos\Additional_C++++\Additional_C++++\obj\Debug\Addition
 C:\Users\mizuk\source\repos\Additional_C++++\Additional_C++++\obj\Debug\Additional_C++++.csproj.CoreCompileInputs.cache
 C:\Users\mizuk\source\repos\Additional_C++++\Additional_C++++\obj\Debug\Additional_C++++.exe
 C:\Users\mizuk\source\repos\Additional_C++++\Additional_C++++\obj\Debug\Additional_C++++.pdb
+C:\Users\mizuk\Source\Repos\Additional_C----\Additional_C++++\obj\Debug\Additional_C++++.csproj.AssemblyReference.cache
+C:\Users\mizuk\Source\Repos\Additional_C----\Additional_C++++\obj\Debug\Additional_C++++.csproj.SuggestedBindingRedirects.cache
+C:\Users\mizuk\Source\Repos\Additional_C----\Additional_C++++\obj\Debug\Additional_C++++.csproj.CoreCompileInputs.cache
+C:\Users\mizuk\Source\Repos\Additional_C----\Additional_C++++\obj\Debug\Additional_C++++.exe
+C:\Users\mizuk\Source\Repos\Additional_C----\Additional_C++++\obj\Debug\Additional_C++++.pdb
+C:\Users\mizuk\Source\Repos\Additional_C----\Additional_C++++\bin\Debug\Additional_C++++.exe.config
+C:\Users\mizuk\Source\Repos\Additional_C----\Additional_C++++\bin\Debug\Additional_C++++.exe
+C:\Users\mizuk\Source\Repos\Additional_C----\Additional_C++++\bin\Debug\Additional_C++++.pdb

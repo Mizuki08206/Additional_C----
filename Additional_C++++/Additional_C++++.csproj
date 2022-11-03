@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Generics.cs" />
     <Compile Include="Kakutyo.cs" />
     <Compile Include="SeikiHyougen.cs" />
-    <Compile Include="Deligate.cs" />
+    <Compile Include="Delegate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Seiteki.cs" />
