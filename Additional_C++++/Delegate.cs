@@ -126,5 +126,6 @@ namespace Additional_C____
             Console.WriteLine("GetCounter");
             return () => ++i;
         }
+        //終了
     }
 }

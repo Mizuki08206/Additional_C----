@@ -117,7 +117,8 @@ namespace Additional_C____
             //インスタンスで使うとき
             //var regex = new Regex(@"正規表現の文字列");
             //var result4 = regex.Replace("置換される文字列","置換する文字列");
-            
+
         }
+        //終了
     }
 }

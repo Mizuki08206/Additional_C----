@@ -27,4 +27,5 @@ namespace Additional_C____
         //Q.同じファイル内に書いていればusingは必要ない？
 
     }
+    //終了
 }

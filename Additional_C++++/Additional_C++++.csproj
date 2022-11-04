@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Generics.cs" />
     <Compile Include="Kakutyo.cs" />
+    <Compile Include="NullEnzanshi.cs" />
     <Compile Include="SeikiHyougen.cs" />
     <Compile Include="Delegate.cs" />
     <Compile Include="Program.cs" />
